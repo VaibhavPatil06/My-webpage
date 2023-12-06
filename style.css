@@ -193,6 +193,9 @@ h2 {
 }
 
 @media screen and (max-width: 768px) and (min-width: 576px) {
+    body{
+        background-image: url('./bg1.png');
+    }
     .um {
         margin-right: 50px;
         padding-left: 10px;
@@ -260,6 +263,9 @@ h2 {
     }
 }
 @media screen and (max-width: 992px) and (min-width: 768px) {
+    body{
+        background-image: url('./bg2.png');
+    }
     .um {
         margin-right: 50px;
         padding-left: 30px;
