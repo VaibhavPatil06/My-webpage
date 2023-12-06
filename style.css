@@ -136,6 +136,7 @@ body{
     grid-template-rows: auto;
 }
 header{
+    margin-bottom:-10px;
     color: white;
 }
 .phone{
