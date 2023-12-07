@@ -199,6 +199,9 @@ h2 {
         padding-right: 10px;
     }
     .hello {
+         display: grid;
+        grid-template-columns: 600px ;
+        grid-template-rows: auto auto auto;
         margin-left: -200px;   
     }
     #hell {
